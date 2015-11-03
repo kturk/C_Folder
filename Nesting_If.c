@@ -14,7 +14,7 @@ int main()
 	scanf(" %c", &gender);
 
 	if(age >= 18){
-		printf("You may enter this website\n ");
+		printf("You may enter this website ");
 	
 		if(gender == 'm'){
 			printf("dude\n");
