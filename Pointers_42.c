@@ -16,7 +16,7 @@ int main()
 
 	printf("%p \t %s \t %d \n", pTuna, "tuna", tuna);
 
-	printf("%p \t %s \t %p \n", &pTuna, "pTuna", pTuna);
+	printf("%p \t %s \t %p \n", &pTuna, "pTuna", *pTuna);
 
 	return 0;
 }
