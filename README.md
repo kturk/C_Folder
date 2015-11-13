@@ -1,4 +1,3 @@
 # C_Folder
 
-This is my works
-Second one
+This is my first C works
