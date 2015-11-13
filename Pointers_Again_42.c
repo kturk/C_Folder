@@ -9,13 +9,13 @@ int main()
 	
 	int tuna = 19;
 
-	printg("Address \t Name \t Value \n");
+	print ref("Address \t Name \t Value \n");
 
 	printf("%p \t %s \t %d \n", );
 
 	int * pTuna = &tuna;
 
-	printff("%p \t %s \t %d \n", pTuna, "tuna", tuna);
+	printf("%p \t %s \t %d \n", pTuna, "tuna", tuna);
 
 	return 0;
 }
